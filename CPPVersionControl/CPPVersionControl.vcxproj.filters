@@ -19,4 +19,9 @@
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="feature.h">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
