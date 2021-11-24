@@ -1,6 +1,11 @@
 #include <iostream>
 
-int main()
+void greet()
 {
 	std::cout << "Welcome\n\n";
+}
+
+int main()
+{
+	greet();
 }
